@@ -1,0 +1,59 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+@MEDIAL = [a-z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1-a.lig3 e.lig1-e.lig3 i.lig1-i.lig3 o.lig1-o.lig3 u.lig1-u.lig3 y.lig1-y.lig3];
+@ISOLATED = [a.isol-z.isol exclam.isol numbersign.isol comma.isol period.isol question.isol quotesingle.isol quotedbl.isol hyphen.isol colon.isol semicolon.isol a.lig1.isol-a.lig3.isol e.lig1.isol-e.lig3.isol i.lig1.isol-i.lig3.isol o.lig1.isol-o.lig3.isol u.lig1.isol-u.lig3.isol y.lig1.isol-y.lig3.isol];
+@FINAL = [a.fina-z.fina exclam.fina numbersign.fina comma.fina period.fina question.fina quotesingle.fina quotedbl.fina hyphen.fina colon.fina semicolon.fina a.lig1.fina-a.lig3.fina e.lig1.fina-e.lig3.fina i.lig1.fina-i.lig3.fina o.lig1.fina-o.lig3.fina u.lig1.fina-u.lig3.fina y.lig1.fina-y.lig3.fina];
+@INITIAL = [a.init-z.init exclam.init numbersign.init comma.init period.init question.init quotesingle.init quotedbl.init hyphen.init colon.init semicolon.init a.lig1.init-a.lig3.init e.lig1.init-e.lig3.init i.lig1.init-i.lig3.init o.lig1.init-o.lig3.init u.lig1.init-u.lig3.init y.lig1.init-y.lig3.init];
+@VOWELS = [a e i o u y];
+@LIG1 = [a.lig1 e.lig1 i.lig1 o.lig1 u.lig1 y.lig1];
+@LIG2 = [a.lig2 e.lig2 i.lig2 o.lig2 u.lig2 y.lig2];
+@ALL = [@MEDIAL @ISOLATED @FINAL @INITIAL backslash];
+
+lookup CLOCK_LIG_1 {
+	sub @VOWELS by @LIG1;
+} CLOCK_LIG_1;
+
+lookup CLOCK_LIG_2 {
+	sub @VOWELS by @LIG2;
+} CLOCK_LIG_2;
+
+feature liga {
+
+	lookup ALL_LOWERCASE {
+		sub [A-Z] by [a-z];
+	} ALL_LOWERCASE;
+
+	lookup CLOCK_LIGATURES {
+		sub @VOWELS' lookup CLOCK_LIG_1 @VOWELS' lookup CLOCK_LIG_2;
+	} CLOCK_LIGATURES;
+
+		lookup PAIR_CLOCK_LIGATURES {
+		sub a.lig1 a.lig2 by a.lig3;
+		sub e.lig1 e.lig2 by e.lig3;
+		sub i.lig1 i.lig2 by i.lig3;
+		sub o.lig1 o.lig2 by o.lig3;
+		sub u.lig1 u.lig2 by u.lig3;
+		sub y.lig1 y.lig2 by y.lig3;
+	} PAIR_CLOCK_LIGATURES;
+
+	lookup REMOVE_BACKSLASH {
+		sub backslash by NULL;
+	} REMOVE_BACKSLASH;
+
+	lookup ISOLATED {
+		ignore sub @MEDIAL' @ALL, @ALL @MEDIAL';
+		sub @MEDIAL' by @ISOLATED;
+	} ISOLATED;
+
+	lookup FINAL {
+		ignore sub @MEDIAL' @ALL;
+		sub @MEDIAL' by @FINAL;
+	} FINAL;
+
+	lookup INITIAL {
+		ignore sub @ALL @MEDIAL';
+		sub @MEDIAL' by @INITIAL;
+	} INITIAL;
+
+} liga;

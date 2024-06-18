@@ -1,0 +1,31 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+@MEDIAL = [a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon];
+@ISOLATED = [a.isol b.isol c.isol d.isol e.isol f.isol g.isol h.isol i.isol j.isol k.isol l.isol m.isol n.isol o.isol p.isol q.isol r.isol s.isol t.isol u.isol v.isol w.isol x.isol y.isol z.isol exclam.isol numbersign.isol comma.isol period.isol question.isol quotesingle.isol quotedbl.isol hyphen.isol colon.isol semicolon.isol];
+@FINAL = [a.fina b.fina c.fina d.fina e.fina f.fina g.fina h.fina i.fina j.fina k.fina l.fina m.fina n.fina o.fina p.fina q.fina r.fina s.fina t.fina u.fina v.fina w.fina x.fina y.fina z.fina exclam.fina numbersign.fina comma.fina period.fina question.fina quotesingle.fina quotedbl.fina hyphen.fina colon.fina semicolon.fina];
+@INITIAL = [a.init b.init c.init d.init e.init f.init g.init h.init i.init j.init k.init l.init m.init n.init o.init p.init q.init r.init s.init t.init u.init v.init w.init x.init y.init z.init exclam.init numbersign.init comma.init period.init question.init quotesingle.init quotedbl.init hyphen.init colon.init semicolon.init];
+@ALL = [@MEDIAL @ISOLATED @FINAL @INITIAL];
+
+feature liga {
+
+	lookup ALL_LOWERCASE {
+		sub [A-Z] by [a-z];
+	} ALL_LOWERCASE;
+
+	lookup ISOLATED {
+		ignore sub @MEDIAL' @ALL, @ALL @MEDIAL';
+		sub @MEDIAL' by @ISOLATED;
+	} ISOLATED;
+
+	lookup FINAL {
+		ignore sub @MEDIAL' @ALL;
+		sub @MEDIAL' by @FINAL;
+	} FINAL;
+
+	lookup INITIAL {
+		ignore sub @ALL @MEDIAL';
+		sub @MEDIAL' by @INITIAL;
+	} INITIAL;
+
+} liga;
