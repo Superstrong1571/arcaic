@@ -1,10 +1,10 @@
 languagesystem DFLT dflt;
 languagesystem latn dflt;
 
-@MEDIAL = [a-z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1-a.lig3 e.lig1-e.lig3 i.lig1-i.lig3 o.lig1-o.lig3 u.lig1-u.lig3 y.lig1-y.lig3];
-@ISOLATED = [a.isol-z.isol exclam.isol numbersign.isol comma.isol period.isol question.isol quotesingle.isol quotedbl.isol hyphen.isol colon.isol semicolon.isol a.lig1.isol-a.lig3.isol e.lig1.isol-e.lig3.isol i.lig1.isol-i.lig3.isol o.lig1.isol-o.lig3.isol u.lig1.isol-u.lig3.isol y.lig1.isol-y.lig3.isol];
-@FINAL = [a.fina-z.fina exclam.fina numbersign.fina comma.fina period.fina question.fina quotesingle.fina quotedbl.fina hyphen.fina colon.fina semicolon.fina a.lig1.fina-a.lig3.fina e.lig1.fina-e.lig3.fina i.lig1.fina-i.lig3.fina o.lig1.fina-o.lig3.fina u.lig1.fina-u.lig3.fina y.lig1.fina-y.lig3.fina];
-@INITIAL = [a.init-z.init exclam.init numbersign.init comma.init period.init question.init quotesingle.init quotedbl.init hyphen.init colon.init semicolon.init a.lig1.init-a.lig3.init e.lig1.init-e.lig3.init i.lig1.init-i.lig3.init o.lig1.init-o.lig3.init u.lig1.init-u.lig3.init y.lig1.init-y.lig3.init];
+@MEDIAL = [a-z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1-a.lig3 e.lig1-e.lig3 i.lig1-i.lig3 o.lig1-o.lig3 u.lig1-u.lig3 y.lig1-y.lig3 quotedblleft quotedblright quoteleft quoteright];
+@ISOLATED = [a.isol-z.isol exclam.isol numbersign.isol comma.isol period.isol question.isol quotesingle.isol quotedbl.isol hyphen.isol colon.isol semicolon.isol a.lig1.isol-a.lig3.isol e.lig1.isol-e.lig3.isol i.lig1.isol-i.lig3.isol o.lig1.isol-o.lig3.isol u.lig1.isol-u.lig3.isol y.lig1.isol-y.lig3.isol quotedblleft.isol quotedblright.isol quoteleft.isol quoteright.isol];
+@FINAL = [a.fina-z.fina exclam.fina numbersign.fina comma.fina period.fina question.fina quotesingle.fina quotedbl.fina hyphen.fina colon.fina semicolon.fina a.lig1.fina-a.lig3.fina e.lig1.fina-e.lig3.fina i.lig1.fina-i.lig3.fina o.lig1.fina-o.lig3.fina u.lig1.fina-u.lig3.fina y.lig1.fina-y.lig3.fina quotedblleft.fina quotedblright.fina quoteleft.fina quoteright.fina];
+@INITIAL = [a.init-z.init exclam.init numbersign.init comma.init period.init question.init quotesingle.init quotedbl.init hyphen.init colon.init semicolon.init a.lig1.init-a.lig3.init e.lig1.init-e.lig3.init i.lig1.init-i.lig3.init o.lig1.init-o.lig3.init u.lig1.init-u.lig3.init y.lig1.init-y.lig3.init quotedblleft.init quotedblright.init quoteleft.init quoteright.init];
 @VOWELS = [a e i o u y];
 @LIG1 = [a.lig1 e.lig1 i.lig1 o.lig1 u.lig1 y.lig1];
 @LIG2 = [a.lig2 e.lig2 i.lig2 o.lig2 u.lig2 y.lig2];

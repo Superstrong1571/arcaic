@@ -22,7 +22,7 @@ OS2Version: 5
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1718318513
-ModificationTime: 1718672495
+ModificationTime: 1719886005
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -58,44 +58,44 @@ MarkAttachClasses: 1
 DEI: 91125
 ChainSub2: coverage "INITIAL contextual 1" 0 0 0 1
  1 0 0
-  Coverage: 261 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3
+  Coverage: 309 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3 quotedblleft quotedblright quoteleft quoteright
  1
   SeqLookup: 0 "Single Substitution lookup 11"
 EndFPST
 ChainSub2: coverage "INITIAL contextual 0" 0 0 0 1
  1 1 0
-  Coverage: 261 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3
-  BCoverage: 1867 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3 a.isol b.isol c.isol d.isol e.isol f.isol g.isol h.isol i.isol j.isol k.isol l.isol m.isol n.isol o.isol p.isol q.isol r.isol s.isol t.isol u.isol v.isol w.isol x.isol y.isol z.isol exclam.isol numbersign.isol comma.isol period.isol question.isol quotesingle.isol quotedbl.isol hyphen.isol colon.isol semicolon.isol a.lig1.isol a.lig2.isol a.lig3.isol e.lig1.isol e.lig2.isol e.lig3.isol i.lig1.isol i.lig2.isol i.lig3.isol o.lig1.isol o.lig2.isol o.lig3.isol u.lig1.isol u.lig2.isol u.lig3.isol y.lig1.isol y.lig2.isol y.lig3.isol a.fina b.fina c.fina d.fina e.fina f.fina g.fina h.fina i.fina j.fina k.fina l.fina m.fina n.fina o.fina p.fina q.fina r.fina s.fina t.fina u.fina v.fina w.fina x.fina y.fina z.fina exclam.fina numbersign.fina comma.fina period.fina question.fina quotesingle.fina quotedbl.fina hyphen.fina colon.fina semicolon.fina a.lig1.fina a.lig2.fina a.lig3.fina e.lig1.fina e.lig2.fina e.lig3.fina i.lig1.fina i.lig2.fina i.lig3.fina o.lig1.fina o.lig2.fina o.lig3.fina u.lig1.fina u.lig2.fina u.lig3.fina y.lig1.fina y.lig2.fina y.lig3.fina a.init b.init c.init d.init e.init f.init g.init h.init i.init j.init k.init l.init m.init n.init o.init p.init q.init r.init s.init t.init u.init v.init w.init x.init y.init z.init exclam.init numbersign.init comma.init period.init question.init quotesingle.init quotedbl.init hyphen.init colon.init semicolon.init a.lig1.init a.lig2.init a.lig3.init e.lig1.init e.lig2.init e.lig3.init i.lig1.init i.lig2.init i.lig3.init o.lig1.init o.lig2.init o.lig3.init u.lig1.init u.lig2.init u.lig3.init y.lig1.init y.lig2.init y.lig3.init backslash
+  Coverage: 309 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3 quotedblleft quotedblright quoteleft quoteright
+  BCoverage: 2119 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3 quotedblleft quotedblright quoteleft quoteright a.isol b.isol c.isol d.isol e.isol f.isol g.isol h.isol i.isol j.isol k.isol l.isol m.isol n.isol o.isol p.isol q.isol r.isol s.isol t.isol u.isol v.isol w.isol x.isol y.isol z.isol exclam.isol numbersign.isol comma.isol period.isol question.isol quotesingle.isol quotedbl.isol hyphen.isol colon.isol semicolon.isol a.lig1.isol a.lig2.isol a.lig3.isol e.lig1.isol e.lig2.isol e.lig3.isol i.lig1.isol i.lig2.isol i.lig3.isol o.lig1.isol o.lig2.isol o.lig3.isol u.lig1.isol u.lig2.isol u.lig3.isol y.lig1.isol y.lig2.isol y.lig3.isol quotedblleft.isol quotedblright.isol quoteleft.isol quoteright.isol a.fina b.fina c.fina d.fina e.fina f.fina g.fina h.fina i.fina j.fina k.fina l.fina m.fina n.fina o.fina p.fina q.fina r.fina s.fina t.fina u.fina v.fina w.fina x.fina y.fina z.fina exclam.fina numbersign.fina comma.fina period.fina question.fina quotesingle.fina quotedbl.fina hyphen.fina colon.fina semicolon.fina a.lig1.fina a.lig2.fina a.lig3.fina e.lig1.fina e.lig2.fina e.lig3.fina i.lig1.fina i.lig2.fina i.lig3.fina o.lig1.fina o.lig2.fina o.lig3.fina u.lig1.fina u.lig2.fina u.lig3.fina y.lig1.fina y.lig2.fina y.lig3.fina quotedblleft.fina quotedblright.fina quoteleft.fina quoteright.fina a.init b.init c.init d.init e.init f.init g.init h.init i.init j.init k.init l.init m.init n.init o.init p.init q.init r.init s.init t.init u.init v.init w.init x.init y.init z.init exclam.init numbersign.init comma.init period.init question.init quotesingle.init quotedbl.init hyphen.init colon.init semicolon.init a.lig1.init a.lig2.init a.lig3.init e.lig1.init e.lig2.init e.lig3.init i.lig1.init i.lig2.init i.lig3.init o.lig1.init o.lig2.init o.lig3.init u.lig1.init u.lig2.init u.lig3.init y.lig1.init y.lig2.init y.lig3.init quotedblleft.init quotedblright.init quoteleft.init quoteright.init backslash
  0
 EndFPST
 ChainSub2: coverage "FINAL contextual 1" 0 0 0 1
  1 0 0
-  Coverage: 261 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3
+  Coverage: 309 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3 quotedblleft quotedblright quoteleft quoteright
  1
   SeqLookup: 0 "Single Substitution lookup 9"
 EndFPST
 ChainSub2: coverage "FINAL contextual 0" 0 0 0 1
  1 0 1
-  Coverage: 261 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3
-  FCoverage: 1867 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3 a.isol b.isol c.isol d.isol e.isol f.isol g.isol h.isol i.isol j.isol k.isol l.isol m.isol n.isol o.isol p.isol q.isol r.isol s.isol t.isol u.isol v.isol w.isol x.isol y.isol z.isol exclam.isol numbersign.isol comma.isol period.isol question.isol quotesingle.isol quotedbl.isol hyphen.isol colon.isol semicolon.isol a.lig1.isol a.lig2.isol a.lig3.isol e.lig1.isol e.lig2.isol e.lig3.isol i.lig1.isol i.lig2.isol i.lig3.isol o.lig1.isol o.lig2.isol o.lig3.isol u.lig1.isol u.lig2.isol u.lig3.isol y.lig1.isol y.lig2.isol y.lig3.isol a.fina b.fina c.fina d.fina e.fina f.fina g.fina h.fina i.fina j.fina k.fina l.fina m.fina n.fina o.fina p.fina q.fina r.fina s.fina t.fina u.fina v.fina w.fina x.fina y.fina z.fina exclam.fina numbersign.fina comma.fina period.fina question.fina quotesingle.fina quotedbl.fina hyphen.fina colon.fina semicolon.fina a.lig1.fina a.lig2.fina a.lig3.fina e.lig1.fina e.lig2.fina e.lig3.fina i.lig1.fina i.lig2.fina i.lig3.fina o.lig1.fina o.lig2.fina o.lig3.fina u.lig1.fina u.lig2.fina u.lig3.fina y.lig1.fina y.lig2.fina y.lig3.fina a.init b.init c.init d.init e.init f.init g.init h.init i.init j.init k.init l.init m.init n.init o.init p.init q.init r.init s.init t.init u.init v.init w.init x.init y.init z.init exclam.init numbersign.init comma.init period.init question.init quotesingle.init quotedbl.init hyphen.init colon.init semicolon.init a.lig1.init a.lig2.init a.lig3.init e.lig1.init e.lig2.init e.lig3.init i.lig1.init i.lig2.init i.lig3.init o.lig1.init o.lig2.init o.lig3.init u.lig1.init u.lig2.init u.lig3.init y.lig1.init y.lig2.init y.lig3.init backslash
+  Coverage: 309 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3 quotedblleft quotedblright quoteleft quoteright
+  FCoverage: 2119 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3 quotedblleft quotedblright quoteleft quoteright a.isol b.isol c.isol d.isol e.isol f.isol g.isol h.isol i.isol j.isol k.isol l.isol m.isol n.isol o.isol p.isol q.isol r.isol s.isol t.isol u.isol v.isol w.isol x.isol y.isol z.isol exclam.isol numbersign.isol comma.isol period.isol question.isol quotesingle.isol quotedbl.isol hyphen.isol colon.isol semicolon.isol a.lig1.isol a.lig2.isol a.lig3.isol e.lig1.isol e.lig2.isol e.lig3.isol i.lig1.isol i.lig2.isol i.lig3.isol o.lig1.isol o.lig2.isol o.lig3.isol u.lig1.isol u.lig2.isol u.lig3.isol y.lig1.isol y.lig2.isol y.lig3.isol quotedblleft.isol quotedblright.isol quoteleft.isol quoteright.isol a.fina b.fina c.fina d.fina e.fina f.fina g.fina h.fina i.fina j.fina k.fina l.fina m.fina n.fina o.fina p.fina q.fina r.fina s.fina t.fina u.fina v.fina w.fina x.fina y.fina z.fina exclam.fina numbersign.fina comma.fina period.fina question.fina quotesingle.fina quotedbl.fina hyphen.fina colon.fina semicolon.fina a.lig1.fina a.lig2.fina a.lig3.fina e.lig1.fina e.lig2.fina e.lig3.fina i.lig1.fina i.lig2.fina i.lig3.fina o.lig1.fina o.lig2.fina o.lig3.fina u.lig1.fina u.lig2.fina u.lig3.fina y.lig1.fina y.lig2.fina y.lig3.fina quotedblleft.fina quotedblright.fina quoteleft.fina quoteright.fina a.init b.init c.init d.init e.init f.init g.init h.init i.init j.init k.init l.init m.init n.init o.init p.init q.init r.init s.init t.init u.init v.init w.init x.init y.init z.init exclam.init numbersign.init comma.init period.init question.init quotesingle.init quotedbl.init hyphen.init colon.init semicolon.init a.lig1.init a.lig2.init a.lig3.init e.lig1.init e.lig2.init e.lig3.init i.lig1.init i.lig2.init i.lig3.init o.lig1.init o.lig2.init o.lig3.init u.lig1.init u.lig2.init u.lig3.init y.lig1.init y.lig2.init y.lig3.init quotedblleft.init quotedblright.init quoteleft.init quoteright.init backslash
  0
 EndFPST
 ChainSub2: coverage "ISOLATED contextual 2" 0 0 0 1
  1 0 0
-  Coverage: 261 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3
+  Coverage: 309 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3 quotedblleft quotedblright quoteleft quoteright
  1
   SeqLookup: 0 "Single Substitution lookup 7"
 EndFPST
 ChainSub2: coverage "ISOLATED contextual 1" 0 0 0 1
  1 1 0
-  Coverage: 261 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3
-  BCoverage: 1867 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3 a.isol b.isol c.isol d.isol e.isol f.isol g.isol h.isol i.isol j.isol k.isol l.isol m.isol n.isol o.isol p.isol q.isol r.isol s.isol t.isol u.isol v.isol w.isol x.isol y.isol z.isol exclam.isol numbersign.isol comma.isol period.isol question.isol quotesingle.isol quotedbl.isol hyphen.isol colon.isol semicolon.isol a.lig1.isol a.lig2.isol a.lig3.isol e.lig1.isol e.lig2.isol e.lig3.isol i.lig1.isol i.lig2.isol i.lig3.isol o.lig1.isol o.lig2.isol o.lig3.isol u.lig1.isol u.lig2.isol u.lig3.isol y.lig1.isol y.lig2.isol y.lig3.isol a.fina b.fina c.fina d.fina e.fina f.fina g.fina h.fina i.fina j.fina k.fina l.fina m.fina n.fina o.fina p.fina q.fina r.fina s.fina t.fina u.fina v.fina w.fina x.fina y.fina z.fina exclam.fina numbersign.fina comma.fina period.fina question.fina quotesingle.fina quotedbl.fina hyphen.fina colon.fina semicolon.fina a.lig1.fina a.lig2.fina a.lig3.fina e.lig1.fina e.lig2.fina e.lig3.fina i.lig1.fina i.lig2.fina i.lig3.fina o.lig1.fina o.lig2.fina o.lig3.fina u.lig1.fina u.lig2.fina u.lig3.fina y.lig1.fina y.lig2.fina y.lig3.fina a.init b.init c.init d.init e.init f.init g.init h.init i.init j.init k.init l.init m.init n.init o.init p.init q.init r.init s.init t.init u.init v.init w.init x.init y.init z.init exclam.init numbersign.init comma.init period.init question.init quotesingle.init quotedbl.init hyphen.init colon.init semicolon.init a.lig1.init a.lig2.init a.lig3.init e.lig1.init e.lig2.init e.lig3.init i.lig1.init i.lig2.init i.lig3.init o.lig1.init o.lig2.init o.lig3.init u.lig1.init u.lig2.init u.lig3.init y.lig1.init y.lig2.init y.lig3.init backslash
+  Coverage: 309 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3 quotedblleft quotedblright quoteleft quoteright
+  BCoverage: 2119 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3 quotedblleft quotedblright quoteleft quoteright a.isol b.isol c.isol d.isol e.isol f.isol g.isol h.isol i.isol j.isol k.isol l.isol m.isol n.isol o.isol p.isol q.isol r.isol s.isol t.isol u.isol v.isol w.isol x.isol y.isol z.isol exclam.isol numbersign.isol comma.isol period.isol question.isol quotesingle.isol quotedbl.isol hyphen.isol colon.isol semicolon.isol a.lig1.isol a.lig2.isol a.lig3.isol e.lig1.isol e.lig2.isol e.lig3.isol i.lig1.isol i.lig2.isol i.lig3.isol o.lig1.isol o.lig2.isol o.lig3.isol u.lig1.isol u.lig2.isol u.lig3.isol y.lig1.isol y.lig2.isol y.lig3.isol quotedblleft.isol quotedblright.isol quoteleft.isol quoteright.isol a.fina b.fina c.fina d.fina e.fina f.fina g.fina h.fina i.fina j.fina k.fina l.fina m.fina n.fina o.fina p.fina q.fina r.fina s.fina t.fina u.fina v.fina w.fina x.fina y.fina z.fina exclam.fina numbersign.fina comma.fina period.fina question.fina quotesingle.fina quotedbl.fina hyphen.fina colon.fina semicolon.fina a.lig1.fina a.lig2.fina a.lig3.fina e.lig1.fina e.lig2.fina e.lig3.fina i.lig1.fina i.lig2.fina i.lig3.fina o.lig1.fina o.lig2.fina o.lig3.fina u.lig1.fina u.lig2.fina u.lig3.fina y.lig1.fina y.lig2.fina y.lig3.fina quotedblleft.fina quotedblright.fina quoteleft.fina quoteright.fina a.init b.init c.init d.init e.init f.init g.init h.init i.init j.init k.init l.init m.init n.init o.init p.init q.init r.init s.init t.init u.init v.init w.init x.init y.init z.init exclam.init numbersign.init comma.init period.init question.init quotesingle.init quotedbl.init hyphen.init colon.init semicolon.init a.lig1.init a.lig2.init a.lig3.init e.lig1.init e.lig2.init e.lig3.init i.lig1.init i.lig2.init i.lig3.init o.lig1.init o.lig2.init o.lig3.init u.lig1.init u.lig2.init u.lig3.init y.lig1.init y.lig2.init y.lig3.init quotedblleft.init quotedblright.init quoteleft.init quoteright.init backslash
  0
 EndFPST
 ChainSub2: coverage "ISOLATED contextual 0" 0 0 0 1
  1 0 1
-  Coverage: 261 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3
-  FCoverage: 1867 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3 a.isol b.isol c.isol d.isol e.isol f.isol g.isol h.isol i.isol j.isol k.isol l.isol m.isol n.isol o.isol p.isol q.isol r.isol s.isol t.isol u.isol v.isol w.isol x.isol y.isol z.isol exclam.isol numbersign.isol comma.isol period.isol question.isol quotesingle.isol quotedbl.isol hyphen.isol colon.isol semicolon.isol a.lig1.isol a.lig2.isol a.lig3.isol e.lig1.isol e.lig2.isol e.lig3.isol i.lig1.isol i.lig2.isol i.lig3.isol o.lig1.isol o.lig2.isol o.lig3.isol u.lig1.isol u.lig2.isol u.lig3.isol y.lig1.isol y.lig2.isol y.lig3.isol a.fina b.fina c.fina d.fina e.fina f.fina g.fina h.fina i.fina j.fina k.fina l.fina m.fina n.fina o.fina p.fina q.fina r.fina s.fina t.fina u.fina v.fina w.fina x.fina y.fina z.fina exclam.fina numbersign.fina comma.fina period.fina question.fina quotesingle.fina quotedbl.fina hyphen.fina colon.fina semicolon.fina a.lig1.fina a.lig2.fina a.lig3.fina e.lig1.fina e.lig2.fina e.lig3.fina i.lig1.fina i.lig2.fina i.lig3.fina o.lig1.fina o.lig2.fina o.lig3.fina u.lig1.fina u.lig2.fina u.lig3.fina y.lig1.fina y.lig2.fina y.lig3.fina a.init b.init c.init d.init e.init f.init g.init h.init i.init j.init k.init l.init m.init n.init o.init p.init q.init r.init s.init t.init u.init v.init w.init x.init y.init z.init exclam.init numbersign.init comma.init period.init question.init quotesingle.init quotedbl.init hyphen.init colon.init semicolon.init a.lig1.init a.lig2.init a.lig3.init e.lig1.init e.lig2.init e.lig3.init i.lig1.init i.lig2.init i.lig3.init o.lig1.init o.lig2.init o.lig3.init u.lig1.init u.lig2.init u.lig3.init y.lig1.init y.lig2.init y.lig3.init backslash
+  Coverage: 309 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3 quotedblleft quotedblright quoteleft quoteright
+  FCoverage: 2119 a b c d e f g h i j k l m n o p q r s t u v w x y z exclam numbersign comma period question quotesingle quotedbl hyphen colon semicolon a.lig1 a.lig2 a.lig3 e.lig1 e.lig2 e.lig3 i.lig1 i.lig2 i.lig3 o.lig1 o.lig2 o.lig3 u.lig1 u.lig2 u.lig3 y.lig1 y.lig2 y.lig3 quotedblleft quotedblright quoteleft quoteright a.isol b.isol c.isol d.isol e.isol f.isol g.isol h.isol i.isol j.isol k.isol l.isol m.isol n.isol o.isol p.isol q.isol r.isol s.isol t.isol u.isol v.isol w.isol x.isol y.isol z.isol exclam.isol numbersign.isol comma.isol period.isol question.isol quotesingle.isol quotedbl.isol hyphen.isol colon.isol semicolon.isol a.lig1.isol a.lig2.isol a.lig3.isol e.lig1.isol e.lig2.isol e.lig3.isol i.lig1.isol i.lig2.isol i.lig3.isol o.lig1.isol o.lig2.isol o.lig3.isol u.lig1.isol u.lig2.isol u.lig3.isol y.lig1.isol y.lig2.isol y.lig3.isol quotedblleft.isol quotedblright.isol quoteleft.isol quoteright.isol a.fina b.fina c.fina d.fina e.fina f.fina g.fina h.fina i.fina j.fina k.fina l.fina m.fina n.fina o.fina p.fina q.fina r.fina s.fina t.fina u.fina v.fina w.fina x.fina y.fina z.fina exclam.fina numbersign.fina comma.fina period.fina question.fina quotesingle.fina quotedbl.fina hyphen.fina colon.fina semicolon.fina a.lig1.fina a.lig2.fina a.lig3.fina e.lig1.fina e.lig2.fina e.lig3.fina i.lig1.fina i.lig2.fina i.lig3.fina o.lig1.fina o.lig2.fina o.lig3.fina u.lig1.fina u.lig2.fina u.lig3.fina y.lig1.fina y.lig2.fina y.lig3.fina quotedblleft.fina quotedblright.fina quoteleft.fina quoteright.fina a.init b.init c.init d.init e.init f.init g.init h.init i.init j.init k.init l.init m.init n.init o.init p.init q.init r.init s.init t.init u.init v.init w.init x.init y.init z.init exclam.init numbersign.init comma.init period.init question.init quotesingle.init quotedbl.init hyphen.init colon.init semicolon.init a.lig1.init a.lig2.init a.lig3.init e.lig1.init e.lig2.init e.lig3.init i.lig1.init i.lig2.init i.lig3.init o.lig1.init o.lig2.init o.lig3.init u.lig1.init u.lig2.init u.lig3.init y.lig1.init y.lig2.init y.lig3.init quotedblleft.init quotedblright.init quoteleft.init quoteright.init backslash
  0
 EndFPST
 ChainSub2: coverage "CLOCK_LIGATURES subtable" 0 0 0 1
@@ -113,11 +113,11 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 192 16 4
+WinInfo: 208 16 4
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 314572 157286 104857 372087 1048576 104857 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 249 244
+BeginChars: 260 260
 
 StartChar: b
 Encoding: 39 98 0
@@ -6862,6 +6862,354 @@ SplineSet
  119.236328125 193.540039062 l 1
 EndSplineSet
 Validated: 33
+EndChar
+
+StartChar: quotedblleft
+Encoding: 244 8220 244
+Width: 257
+Flags: W
+HStem: -32.2705 64.501<0 96.7705 161.31 261>
+VStem: 96.7705 64.5391<-153.253 -32.2705>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1
+ 0 32.23046875 l 1
+ 261 32.23046875 l 1
+ 261 -32.2705078125 l 1
+ 161.309570312 -32.2705078125 l 1
+ 161.309570312 -153.252929688 l 1
+ 96.7705078125 -153.252929688 l 1
+ 96.7705078125 -32.2705078125 l 1
+ 0 -32.2705078125 l 1
+ 0 0 l 1
+EndSplineSet
+Substitution2: "Single Substitution lookup 11 subtable" quotedblleft.init
+Substitution2: "Single Substitution lookup 9 subtable" quotedblleft.fina
+Substitution2: "Single Substitution lookup 7 subtable" quotedblleft.isol
+EndChar
+
+StartChar: quotedblright
+Encoding: 248 8221 245
+Width: 257
+Flags: W
+HStem: -32.2705 64.501<0 96.7705 161.31 261>
+VStem: 96.7705 64.5391<-153.253 -32.2705>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1
+ 0 32.23046875 l 1
+ 261 32.23046875 l 1
+ 261 -32.2705078125 l 1
+ 161.309570312 -32.2705078125 l 1
+ 161.309570312 -153.252929688 l 1
+ 96.7705078125 -153.252929688 l 1
+ 96.7705078125 -32.2705078125 l 1
+ 0 -32.2705078125 l 1
+ 0 0 l 1
+EndSplineSet
+Substitution2: "Single Substitution lookup 11 subtable" quotedblright.init
+Substitution2: "Single Substitution lookup 9 subtable" quotedblright.fina
+Substitution2: "Single Substitution lookup 7 subtable" quotedblright.isol
+EndChar
+
+StartChar: quotedblleft.init
+Encoding: 245 -1 246
+Width: 209
+Flags: W
+HStem: -153.253 64.501<112.925 161.31> -32.2705 64.501<112.925 213>
+VStem: 48.3848 112.925<-153.253 -88.752> 48.3848 64.54<-88.752 -32.2705>
+LayerCount: 2
+Fore
+SplineSet
+48.384765625 32.23046875 m 1xd0
+ 213 32.23046875 l 1
+ 213 -32.2705078125 l 1
+ 112.924804688 -32.2705078125 l 1
+ 112.924804688 -88.751953125 l 1xd0
+ 161.309570312 -88.751953125 l 1
+ 161.309570312 -153.252929688 l 1
+ 48.384765625 -153.252929688 l 1xe0
+ 48.384765625 32.23046875 l 1xd0
+EndSplineSet
+EndChar
+
+StartChar: quotedblleft.isol
+Encoding: 246 -1 247
+Width: 160
+Flags: W
+HStem: -153.253 185.483<48.3857 112.925>
+VStem: 48.3857 64.5391<-153.253 32.2305>
+LayerCount: 2
+Fore
+SplineSet
+112.924804688 32.23046875 m 1
+ 112.924804688 -153.252929688 l 1
+ 48.3857421875 -153.252929688 l 1
+ 48.3857421875 32.23046875 l 1
+ 112.924804688 32.23046875 l 1
+EndSplineSet
+EndChar
+
+StartChar: quotedblleft.fina
+Encoding: 247 -1 248
+Width: 209
+Flags: W
+HStem: -153.253 64.501<48.3848 96.7695> -32.2705 64.501<0 96.7695>
+VStem: 48.3848 112.925<-153.253 -88.752> 96.7695 64.54<-88.752 -32.2705>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1xd0
+ 0 32.23046875 l 1
+ 161.309570312 32.23046875 l 1xd0
+ 161.309570312 -153.252929688 l 1
+ 48.384765625 -153.252929688 l 1
+ 48.384765625 -88.751953125 l 1xe0
+ 96.76953125 -88.751953125 l 1
+ 96.76953125 -32.2705078125 l 1
+ 0 -32.2705078125 l 1
+ 0 0 l 1xd0
+EndSplineSet
+EndChar
+
+StartChar: quotedblright.init
+Encoding: 249 -1 249
+Width: 209
+Flags: W
+HStem: -153.253 64.501<112.925 161.31> -32.2705 64.501<112.925 213>
+VStem: 48.3848 112.925<-153.253 -88.752> 48.3848 64.54<-88.752 -32.2705>
+LayerCount: 2
+Fore
+SplineSet
+48.384765625 32.23046875 m 1xd0
+ 213 32.23046875 l 1
+ 213 -32.2705078125 l 1
+ 112.924804688 -32.2705078125 l 1
+ 112.924804688 -88.751953125 l 1xd0
+ 161.309570312 -88.751953125 l 1
+ 161.309570312 -153.252929688 l 1
+ 48.384765625 -153.252929688 l 1xe0
+ 48.384765625 32.23046875 l 1xd0
+EndSplineSet
+EndChar
+
+StartChar: quotedblright.isol
+Encoding: 250 -1 250
+Width: 160
+Flags: W
+HStem: -153.253 185.483<48.3857 112.925>
+VStem: 48.3857 64.5391<-153.253 32.2305>
+LayerCount: 2
+Fore
+SplineSet
+112.924804688 32.23046875 m 1
+ 112.924804688 -153.252929688 l 1
+ 48.3857421875 -153.252929688 l 1
+ 48.3857421875 32.23046875 l 1
+ 112.924804688 32.23046875 l 1
+EndSplineSet
+EndChar
+
+StartChar: quotedblright.fina
+Encoding: 251 -1 251
+Width: 209
+Flags: W
+HStem: -153.253 64.501<48.3848 96.7695> -32.2705 64.501<0 96.7695>
+VStem: 48.3848 112.925<-153.253 -88.752> 96.7695 64.54<-88.752 -32.2705>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1xd0
+ 0 32.23046875 l 1
+ 161.309570312 32.23046875 l 1xd0
+ 161.309570312 -153.252929688 l 1
+ 48.384765625 -153.252929688 l 1
+ 48.384765625 -88.751953125 l 1xe0
+ 96.76953125 -88.751953125 l 1
+ 96.76953125 -32.2705078125 l 1
+ 0 -32.2705078125 l 1
+ 0 0 l 1xd0
+EndSplineSet
+EndChar
+
+StartChar: quoteleft
+Encoding: 252 8216 252
+Width: 160
+Flags: W
+HStem: -32.2705 64.501<0 48.3857 112.925 164>
+VStem: 48.3857 64.5391<-153.253 -32.2705 32.2305 153.213>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1
+ 0 32.23046875 l 1
+ 48.3857421875 32.23046875 l 1
+ 48.3857421875 153.212890625 l 1
+ 112.924804688 153.212890625 l 1
+ 112.924804688 32.23046875 l 1
+ 164 32.23046875 l 1
+ 164 -32.2705078125 l 1
+ 112.924804688 -32.2705078125 l 1
+ 112.924804688 -153.252929688 l 1
+ 48.3857421875 -153.252929688 l 1
+ 48.3857421875 -32.2705078125 l 1
+ 0 -32.2705078125 l 1
+ 0 0 l 1
+EndSplineSet
+Substitution2: "Single Substitution lookup 11 subtable" quoteleft.init
+Substitution2: "Single Substitution lookup 9 subtable" quoteleft.fina
+Substitution2: "Single Substitution lookup 7 subtable" quoteleft.isol
+EndChar
+
+StartChar: quoteright
+Encoding: 256 8217 253
+Width: 160
+Flags: W
+HStem: -32.2705 64.501<0 48.3857 112.925 164>
+VStem: 48.3857 64.5391<-153.253 -32.2705 32.2305 153.213>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1
+ 0 32.23046875 l 1
+ 48.3857421875 32.23046875 l 1
+ 48.3857421875 153.212890625 l 1
+ 112.924804688 153.212890625 l 1
+ 112.924804688 32.23046875 l 1
+ 164 32.23046875 l 1
+ 164 -32.2705078125 l 1
+ 112.924804688 -32.2705078125 l 1
+ 112.924804688 -153.252929688 l 1
+ 48.3857421875 -153.252929688 l 1
+ 48.3857421875 -32.2705078125 l 1
+ 0 -32.2705078125 l 1
+ 0 0 l 1
+EndSplineSet
+Substitution2: "Single Substitution lookup 11 subtable" quoteright.init
+Substitution2: "Single Substitution lookup 9 subtable" quoteright.fina
+Substitution2: "Single Substitution lookup 7 subtable" quoteright.isol
+EndChar
+
+StartChar: quoteleft.init
+Encoding: 253 -1 254
+Width: 160
+Flags: W
+HStem: -32.2705 64.501<112.925 164>
+VStem: 48.3857 115.614<-32.2705 32.2305> 48.3857 64.5391<-153.253 -32.2705 32.2305 153.213>
+LayerCount: 2
+Fore
+SplineSet
+48.3857421875 153.212890625 m 1xa0
+ 112.924804688 153.212890625 l 1
+ 112.924804688 32.23046875 l 1xa0
+ 164 32.23046875 l 1
+ 164 -32.2705078125 l 1xc0
+ 112.924804688 -32.2705078125 l 1
+ 112.924804688 -153.252929688 l 1
+ 48.3857421875 -153.252929688 l 1
+ 48.3857421875 153.212890625 l 1xa0
+EndSplineSet
+EndChar
+
+StartChar: quoteleft.isol
+Encoding: 254 -1 255
+Width: 160
+Flags: W
+HStem: -153.253 306.466<48.3848 112.925>
+VStem: 48.3848 64.54<-153.253 153.213>
+LayerCount: 2
+Fore
+SplineSet
+48.384765625 153.212890625 m 1
+ 112.924804688 153.212890625 l 1
+ 112.924804688 -153.252929688 l 1
+ 48.384765625 -153.252929688 l 1
+ 48.384765625 153.212890625 l 1
+EndSplineSet
+EndChar
+
+StartChar: quoteleft.fina
+Encoding: 255 -1 256
+Width: 160
+Flags: W
+HStem: -32.2705 64.501<0 48.3848>
+VStem: 0 112.925<-32.2705 32.2305> 48.3848 64.54<-153.253 -32.2705 32.2305 153.213>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 5xc0
+ 0 32.23046875 l 5xc0
+ 48.384765625 32.23046875 l 5
+ 48.384765625 153.212890625 l 5
+ 112.924804688 153.212890625 l 5
+ 112.924804688 -153.252929688 l 5
+ 48.384765625 -153.252929688 l 5
+ 48.384765625 -32.2705078125 l 5xa0
+ 0 -32.2705078125 l 5
+ 0 0 l 5xc0
+EndSplineSet
+EndChar
+
+StartChar: quoteright.init
+Encoding: 257 -1 257
+Width: 160
+Flags: W
+HStem: -32.2705 64.501<112.925 164>
+VStem: 48.3857 115.614<-32.2705 32.2305> 48.3857 64.5391<-153.253 -32.2705 32.2305 153.213>
+LayerCount: 2
+Fore
+SplineSet
+48.3857421875 153.212890625 m 1xa0
+ 112.924804688 153.212890625 l 1
+ 112.924804688 32.23046875 l 1xa0
+ 164 32.23046875 l 1
+ 164 -32.2705078125 l 1xc0
+ 112.924804688 -32.2705078125 l 1
+ 112.924804688 -153.252929688 l 1
+ 48.3857421875 -153.252929688 l 1
+ 48.3857421875 153.212890625 l 1xa0
+EndSplineSet
+EndChar
+
+StartChar: quoteright.isol
+Encoding: 258 -1 258
+Width: 160
+Flags: W
+HStem: -153.253 306.466<48.3848 112.925>
+VStem: 48.3848 64.54<-153.253 153.213>
+LayerCount: 2
+Fore
+SplineSet
+48.384765625 153.212890625 m 1
+ 112.924804688 153.212890625 l 1
+ 112.924804688 -153.252929688 l 1
+ 48.384765625 -153.252929688 l 1
+ 48.384765625 153.212890625 l 1
+EndSplineSet
+EndChar
+
+StartChar: quoteright.fina
+Encoding: 259 -1 259
+Width: 160
+Flags: W
+HStem: -32.2705 64.501<0 48.3848>
+VStem: 0 112.925<-32.2705 32.2305> 48.3848 64.54<-153.253 -32.2705 32.2305 153.213>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 5xc0
+ 0 32.23046875 l 5xc0
+ 48.384765625 32.23046875 l 5
+ 48.384765625 153.212890625 l 5
+ 112.924804688 153.212890625 l 5
+ 112.924804688 -153.252929688 l 5
+ 48.384765625 -153.252929688 l 5
+ 48.384765625 -32.2705078125 l 5xa0
+ 0 -32.2705078125 l 5
+ 0 0 l 5xc0
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
